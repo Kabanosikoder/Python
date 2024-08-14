@@ -1,1 +1,2 @@
-This is Panther's (Kabanosikoder) testing and messing around repository.
+This is Panther's (Kabanosikoder) testing, learning and messing around repository for Python.
+I don't do much here...

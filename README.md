@@ -1,2 +1,2 @@
-This is Panther's (Kabanosikoder) testing, learning and messing around repository for Python.
-I don't do much here...
+This is Panther's (Kabanosikoder) testing, learning repository for Python.
+I will mostly be putting my school assignments and projects here.
